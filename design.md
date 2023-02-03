@@ -8,4 +8,6 @@ default value
 
 result group to get different type in one template and one iter
 
+flow type output method
+
 end of file
